@@ -1,0 +1,2 @@
+chatgpt was used to create the models.py for users and to help debug one issue.
+https://chatgpt.com/share/671124be-0d90-800c-98ac-e54cc9836e83

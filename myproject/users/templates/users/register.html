@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 {% block title %}Register a New User{% endblock title %}
-{% block header_image %}
-<img src="register.png">
-{% endblock header_image %}
+{% block content %}<h1>Register a new User</h1>{% endblock content %}
+{%load static%}
+{%block header_image%}
+<img class="masthead-avatar mb-5" src="{% static 'assets/blog/register.png' %}"/>
+{%endblock header_image%}
